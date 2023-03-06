@@ -1,0 +1,5 @@
+package latihanOOP
+
+fun main() {
+
+}
